@@ -1,0 +1,23 @@
+{
+  "name": "invite-reward-bot",
+  "version": "1.0.0",
+  "description": "spin reward bot you can get normale spin by inviting 1inv or special spin by inviting 5 inv",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamKryach/spin-reward-bot.git"
+  },
+  "keywords": [
+    "spin",
+    "reward"
+  ],
+  "author": "te.bailo (Adam Kryach)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AdamKryach/spin-reward-bot/issues"
+  },
+  "homepage": "https://github.com/AdamKryach/spin-reward-bot#readme"
+}
