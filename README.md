@@ -68,7 +68,13 @@ This project is a **Discord bot** that allows users to spin a rewards wheel base
 
 ## Developer
 
-This project was created by [Mazen Bailo](https://bailo-portfolio.kesug.com). For any inquiries or support, please visit the [support server](https://discord.gg/SZsP3kgPxs).
+This project was created by :
+[Adam Kryach](https://bailo-portfolio.kesug.com).
+instagam : [a.k__dev](https://instagram.com/a.k__dev)
+discord : te.bailo
+
+
+ For any inquiries or support, please visit the [support server](https://discord.gg/SZsP3kgPxs).
 
 ---
 
